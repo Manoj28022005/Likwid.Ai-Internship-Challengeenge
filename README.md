@@ -2,6 +2,19 @@
 
 A full-stack ERP module for manufacturing companies, featuring customer management and Google Sheets integration.
 
+![image](https://github.com/user-attachments/assets/cba23441-96cd-47aa-abb9-afbc42bfb32a)
+
+![image](https://github.com/user-attachments/assets/f001492f-8574-4450-9fce-887b22aaa1d7)
+
+![image](https://github.com/user-attachments/assets/7e6037ce-8347-4c01-8cf2-2ad751ebc5fd)
+
+## Data file used
+
+[sample_customer_data.xlsx](https://github.com/user-attachments/files/19849164/sample_customer_data.xlsx)
+
+
+
+
 ## Features
 
 ### 1. Customer Management
