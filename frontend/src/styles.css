@@ -1,0 +1,86 @@
+/* General styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #111827;
+  color: #f3f4f6;
+}
+
+/* Dashboard styling */
+.dashboard-title {
+  background: linear-gradient(90deg, #2196f3, #f50057);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+
+/* Card styling */
+.dashboard-card {
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: rgba(31, 41, 55, 0.7);
+  backdrop-filter: blur(10px);
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Custom tooltip styling */
+.custom-tooltip {
+  background-color: rgba(31, 41, 55, 0.9) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 8px !important;
+  padding: 12px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2) !important;
+  color: #f3f4f6 !important;
+}
+
+/* Chart colors */
+.geography-bar {
+  fill: #4ade80 !important; /* Green */
+}
+
+.sales-bar {
+  fill: #f59e0b !important; /* Amber */
+}
+
+.product-bar {
+  fill: #ec4899 !important; /* Pink */
+}
+
+/* Recharts customization */
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+  stroke: rgba(255, 255, 255, 0.1) !important;
+}
+
+.recharts-text {
+  fill: #d1d5db !important;
+}
+
+.recharts-legend-item-text {
+  color: #f3f4f6 !important;
+}
+
+/* Loading state styling */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  background: linear-gradient(135deg, #111827, #1f2937);
+  border-radius: 12px;
+}
+
+/* Upload form styling */
+.upload-container {
+  background-color: rgba(31, 41, 55, 0.7);
+  border-radius: 12px;
+  padding: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+} 

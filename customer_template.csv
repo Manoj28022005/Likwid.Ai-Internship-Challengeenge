@@ -1,0 +1,11 @@
+name,email,phone,address,city,state,country,postal_code,product_name,quantity,amount
+John Doe,john@example.com,1234567890,123 Main St,New York,NY,USA,10001,Laptop,2,2000
+Jane Smith,jane@example.com,0987654321,456 Oak St,Los Angeles,CA,USA,90001,Phone,3,1500
+Bob Johnson,bob@example.com,5555555555,789 Pine St,Chicago,IL,USA,60601,Tablet,1,500
+Alice Brown,alice@example.com,4444444444,321 Elm St,Houston,TX,USA,77001,Laptop,2,2000
+Charlie Wilson,charlie@example.com,3333333333,654 Maple St,Miami,FL,USA,33101,Phone,4,2000
+David Lee,david@example.com,2222222222,987 Cedar St,Seattle,WA,USA,98101,Tablet,3,1500
+Eva Garcia,eva@example.com,1111111111,147 Birch St,Boston,MA,USA,02101,Laptop,1,1000
+Frank Miller,frank@example.com,9999999999,258 Walnut St,Denver,CO,USA,80201,Phone,2,1000
+Grace Taylor,grace@example.com,8888888888,369 Pine St,Phoenix,AZ,USA,85001,Tablet,5,2500
+Henry White,henry@example.com,7777777777,741 Oak St,Portland,OR,USA,97201,Laptop,3,3000 
