@@ -13,6 +13,12 @@ A full-stack ERP module for manufacturing companies, featuring customer manageme
 [sample_customer_data.xlsx](https://github.com/user-attachments/files/19849164/sample_customer_data.xlsx)
 
 
+## For problem statement-2
+
+# -> Google sheet data
+![image](https://github.com/user-attachments/assets/25c5cecb-279b-409d-9f4c-96e328746396)
+# -> got printed when we update in the sheet and reload it
+![image](https://github.com/user-attachments/assets/a82b8d6f-cf5a-4c87-85e0-7f4b7a1414aa)
 
 
 ## Features
